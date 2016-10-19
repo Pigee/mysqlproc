@@ -1,5 +1,5 @@
 -- --------------------------------------------------------
--- 主机:                           218.85.93.130
+-- 主机:                           undefined
 -- 服务器版本:                        10.0.19-MariaDB-1~wheezy - mariadb.org binary distribution
 -- 服务器操作系统:                      debian-linux-gnu
 -- HeidiSQL 版本:                  9.3.0.5099
